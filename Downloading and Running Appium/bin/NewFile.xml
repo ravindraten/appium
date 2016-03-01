@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests">
+
+   <test name="Android1">
+   <parameter name="browser" value="Android1" />
+      <classes>
+         <class name="AppiumGrid" />
+      </classes>
+   </test>
+
+   <test name="Android2">
+   <parameter name="browser" value="Android2" />
+      <classes>
+         <class name="AppiumGrid" />
+      </classes>
+   </test>
+   
+</suite>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<testsuite tests="1">
+    <testcase classname="AppiumGrid" name="Android1"/>
+    <testcase classname="AppiumGrid" name="Android2"/>
+</testsuite>
